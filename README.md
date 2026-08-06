@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-I built a Windows domain lab to demonstrate how centralized identity management can be deployed in a small business environment. I installed Active Directory Domain Services (AD DS) on Windows Server 2019, promoted the server to a domain controller in a new forest, and joined a Windows 11 workstation to the domain.
+I built a Windows domain lab to demonstrate how centralized identity management can be deployed in a small business environment. I installed Active Directory Domain Services (AD DS) on Windows Server 2019, promoted the server to a domain controller, and joined a Windows 10 and 11 workstations to the domain.
 
 This project created the foundation for centralized authentication, user and computer administration, Group Policy, and controlled access to organizational resources.
 
