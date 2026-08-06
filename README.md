@@ -112,7 +112,7 @@ I validated the deployment by confirming that:
 
 ## Security Considerations
 
-- Administrative and Directory Services Restore Mode credentials should never be exposed in documentation screenshots or repository files.
+- Administrative and Directory Services Restore Mode credentials should never be exposed in documentations.
 - Production domain joins should use an account with only the permissions required for the task.
 - DNS, time synchronization, and firewall settings should be verified before troubleshooting Active Directory authentication.
 - Lab credentials and configurations should never be reused in a production/real environment.
